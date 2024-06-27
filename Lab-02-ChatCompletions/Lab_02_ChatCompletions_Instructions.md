@@ -43,6 +43,4 @@ Azure OpenAI provides a web-based portal named **Azure OpenAI Studio**, that you
 
     
 
-## Clean up
 
-When you're done with your Azure OpenAI resource, remember to delete the deployment or the entire resource in the **Azure portal** at `https://portal.azure.com`.
