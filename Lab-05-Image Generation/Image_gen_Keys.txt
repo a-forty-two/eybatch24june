@@ -1,0 +1,3 @@
+Key:"46a9d5ba862c4fc287c72ec2d55ab9dc"
+
+Deployment name:"Dalle3"
