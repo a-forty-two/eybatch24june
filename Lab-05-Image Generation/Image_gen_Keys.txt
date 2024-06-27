@@ -1,3 +1,5 @@
-Key:"46a9d5ba862c4fc287c72ec2d55ab9dc"
+Key:"671bec48efae428c923c4ee21f35a0f1"
 
 Deployment name:"Dalle3"
+
+These are for "pikapika2"
